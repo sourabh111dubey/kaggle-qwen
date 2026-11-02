@@ -1,4 +1,4 @@
-"""Send one streaming coding prompt to the Kaggle Strata tunnel."""
+"""Send one streaming coding prompt to the Kaggle notebook tunnel."""
 
 import os
 import sys
